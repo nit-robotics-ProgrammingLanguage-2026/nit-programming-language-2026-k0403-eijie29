@@ -5,6 +5,6 @@ int main(void) {
     int result,i;
     scanf("%d",&i);
     result=(int)i*1.08;
-    prinf("%d",result);
+    printf("%d",result);
     return 0;
 }
